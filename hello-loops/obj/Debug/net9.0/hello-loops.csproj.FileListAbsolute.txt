@@ -1,0 +1,14 @@
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-loops/bin/Debug/net9.0/hello-loops
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-loops/bin/Debug/net9.0/hello-loops.deps.json
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-loops/bin/Debug/net9.0/hello-loops.runtimeconfig.json
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-loops/bin/Debug/net9.0/hello-loops.dll
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-loops/bin/Debug/net9.0/hello-loops.pdb
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-loops/obj/Debug/net9.0/hello-loops.GeneratedMSBuildEditorConfig.editorconfig
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-loops/obj/Debug/net9.0/hello-loops.AssemblyInfoInputs.cache
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-loops/obj/Debug/net9.0/hello-loops.AssemblyInfo.cs
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-loops/obj/Debug/net9.0/hello-loops.csproj.CoreCompileInputs.cache
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-loops/obj/Debug/net9.0/hello-loops.dll
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-loops/obj/Debug/net9.0/refint/hello-loops.dll
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-loops/obj/Debug/net9.0/hello-loops.pdb
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-loops/obj/Debug/net9.0/hello-loops.genruntimeconfig.cache
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-loops/obj/Debug/net9.0/ref/hello-loops.dll

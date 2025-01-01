@@ -1,0 +1,14 @@
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-classes/obj/Debug/net9.0/hello-classes.GeneratedMSBuildEditorConfig.editorconfig
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-classes/obj/Debug/net9.0/hello-classes.AssemblyInfoInputs.cache
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-classes/obj/Debug/net9.0/hello-classes.AssemblyInfo.cs
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-classes/obj/Debug/net9.0/hello-classes.csproj.CoreCompileInputs.cache
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-classes/bin/Debug/net9.0/hello-classes
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-classes/bin/Debug/net9.0/hello-classes.deps.json
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-classes/bin/Debug/net9.0/hello-classes.runtimeconfig.json
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-classes/bin/Debug/net9.0/hello-classes.dll
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-classes/bin/Debug/net9.0/hello-classes.pdb
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-classes/obj/Debug/net9.0/hello-classes.dll
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-classes/obj/Debug/net9.0/refint/hello-classes.dll
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-classes/obj/Debug/net9.0/hello-classes.pdb
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-classes/obj/Debug/net9.0/hello-classes.genruntimeconfig.cache
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-classes/obj/Debug/net9.0/ref/hello-classes.dll

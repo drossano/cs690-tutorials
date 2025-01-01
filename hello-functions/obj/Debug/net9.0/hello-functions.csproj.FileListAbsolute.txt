@@ -1,0 +1,14 @@
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-functions/obj/Debug/net9.0/hello-functions.GeneratedMSBuildEditorConfig.editorconfig
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-functions/obj/Debug/net9.0/hello-functions.AssemblyInfoInputs.cache
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-functions/obj/Debug/net9.0/hello-functions.AssemblyInfo.cs
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-functions/obj/Debug/net9.0/hello-functions.csproj.CoreCompileInputs.cache
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-functions/bin/Debug/net9.0/hello-functions
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-functions/bin/Debug/net9.0/hello-functions.deps.json
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-functions/bin/Debug/net9.0/hello-functions.runtimeconfig.json
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-functions/bin/Debug/net9.0/hello-functions.dll
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-functions/bin/Debug/net9.0/hello-functions.pdb
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-functions/obj/Debug/net9.0/hello-functions.dll
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-functions/obj/Debug/net9.0/refint/hello-functions.dll
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-functions/obj/Debug/net9.0/hello-functions.pdb
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-functions/obj/Debug/net9.0/hello-functions.genruntimeconfig.cache
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-functions/obj/Debug/net9.0/ref/hello-functions.dll

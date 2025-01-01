@@ -1,0 +1,14 @@
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-conditionals/bin/Debug/net8.0/hello-conditionals
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-conditionals/bin/Debug/net8.0/hello-conditionals.deps.json
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-conditionals/bin/Debug/net8.0/hello-conditionals.runtimeconfig.json
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-conditionals/bin/Debug/net8.0/hello-conditionals.dll
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-conditionals/bin/Debug/net8.0/hello-conditionals.pdb
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-conditionals/obj/Debug/net8.0/hello-conditionals.GeneratedMSBuildEditorConfig.editorconfig
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-conditionals/obj/Debug/net8.0/hello-conditionals.AssemblyInfoInputs.cache
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-conditionals/obj/Debug/net8.0/hello-conditionals.AssemblyInfo.cs
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-conditionals/obj/Debug/net8.0/hello-conditionals.csproj.CoreCompileInputs.cache
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-conditionals/obj/Debug/net8.0/hello-conditionals.dll
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-conditionals/obj/Debug/net8.0/refint/hello-conditionals.dll
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-conditionals/obj/Debug/net8.0/hello-conditionals.pdb
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-conditionals/obj/Debug/net8.0/hello-conditionals.genruntimeconfig.cache
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/hello-conditionals/obj/Debug/net8.0/ref/hello-conditionals.dll
