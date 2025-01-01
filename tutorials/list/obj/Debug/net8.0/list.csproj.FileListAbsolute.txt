@@ -1,0 +1,14 @@
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/list/bin/Debug/net8.0/list
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/list/bin/Debug/net8.0/list.deps.json
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/list/bin/Debug/net8.0/list.runtimeconfig.json
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/list/bin/Debug/net8.0/list.dll
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/list/bin/Debug/net8.0/list.pdb
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/list/obj/Debug/net8.0/list.GeneratedMSBuildEditorConfig.editorconfig
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/list/obj/Debug/net8.0/list.AssemblyInfoInputs.cache
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/list/obj/Debug/net8.0/list.AssemblyInfo.cs
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/list/obj/Debug/net8.0/list.csproj.CoreCompileInputs.cache
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/list/obj/Debug/net8.0/list.dll
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/list/obj/Debug/net8.0/refint/list.dll
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/list/obj/Debug/net8.0/list.pdb
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/list/obj/Debug/net8.0/list.genruntimeconfig.cache
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/list/obj/Debug/net8.0/ref/list.dll

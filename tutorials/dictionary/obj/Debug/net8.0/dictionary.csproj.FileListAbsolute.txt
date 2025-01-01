@@ -1,0 +1,14 @@
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/dictionary/bin/Debug/net8.0/dictionary
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/dictionary/bin/Debug/net8.0/dictionary.deps.json
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/dictionary/bin/Debug/net8.0/dictionary.runtimeconfig.json
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/dictionary/bin/Debug/net8.0/dictionary.dll
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/dictionary/bin/Debug/net8.0/dictionary.pdb
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/dictionary/obj/Debug/net8.0/dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/dictionary/obj/Debug/net8.0/dictionary.AssemblyInfoInputs.cache
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/dictionary/obj/Debug/net8.0/dictionary.AssemblyInfo.cs
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/dictionary/obj/Debug/net8.0/dictionary.csproj.CoreCompileInputs.cache
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/dictionary/obj/Debug/net8.0/dictionary.dll
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/dictionary/obj/Debug/net8.0/refint/dictionary.dll
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/dictionary/obj/Debug/net8.0/dictionary.pdb
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/dictionary/obj/Debug/net8.0/dictionary.genruntimeconfig.cache
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/dictionary/obj/Debug/net8.0/ref/dictionary.dll

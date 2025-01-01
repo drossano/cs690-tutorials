@@ -1,0 +1,14 @@
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/list-sum/bin/Debug/net8.0/list-sum
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/list-sum/bin/Debug/net8.0/list-sum.deps.json
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/list-sum/bin/Debug/net8.0/list-sum.runtimeconfig.json
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/list-sum/bin/Debug/net8.0/list-sum.dll
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/list-sum/bin/Debug/net8.0/list-sum.pdb
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/list-sum/obj/Debug/net8.0/list-sum.GeneratedMSBuildEditorConfig.editorconfig
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/list-sum/obj/Debug/net8.0/list-sum.AssemblyInfoInputs.cache
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/list-sum/obj/Debug/net8.0/list-sum.AssemblyInfo.cs
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/list-sum/obj/Debug/net8.0/list-sum.csproj.CoreCompileInputs.cache
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/list-sum/obj/Debug/net8.0/list-sum.dll
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/list-sum/obj/Debug/net8.0/refint/list-sum.dll
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/list-sum/obj/Debug/net8.0/list-sum.pdb
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/list-sum/obj/Debug/net8.0/list-sum.genruntimeconfig.cache
+/home/deanrossano/cs-masters/2025/spring/cs690/mod2/csharp_tutorials/tutorials/list-sum/obj/Debug/net8.0/ref/list-sum.dll

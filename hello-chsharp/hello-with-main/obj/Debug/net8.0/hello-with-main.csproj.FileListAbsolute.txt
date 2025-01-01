@@ -1,0 +1,14 @@
+/home/deanrossano/cs-masters/2025/spring/cs690/mod1/csharp_tutorials/hello-chsharp/hello-with-main/obj/Debug/net8.0/hello-with-main.GeneratedMSBuildEditorConfig.editorconfig
+/home/deanrossano/cs-masters/2025/spring/cs690/mod1/csharp_tutorials/hello-chsharp/hello-with-main/obj/Debug/net8.0/hello-with-main.AssemblyInfoInputs.cache
+/home/deanrossano/cs-masters/2025/spring/cs690/mod1/csharp_tutorials/hello-chsharp/hello-with-main/obj/Debug/net8.0/hello-with-main.AssemblyInfo.cs
+/home/deanrossano/cs-masters/2025/spring/cs690/mod1/csharp_tutorials/hello-chsharp/hello-with-main/obj/Debug/net8.0/hello-with-main.csproj.CoreCompileInputs.cache
+/home/deanrossano/cs-masters/2025/spring/cs690/mod1/csharp_tutorials/hello-chsharp/hello-with-main/bin/Debug/net8.0/hello-with-main
+/home/deanrossano/cs-masters/2025/spring/cs690/mod1/csharp_tutorials/hello-chsharp/hello-with-main/bin/Debug/net8.0/hello-with-main.deps.json
+/home/deanrossano/cs-masters/2025/spring/cs690/mod1/csharp_tutorials/hello-chsharp/hello-with-main/bin/Debug/net8.0/hello-with-main.runtimeconfig.json
+/home/deanrossano/cs-masters/2025/spring/cs690/mod1/csharp_tutorials/hello-chsharp/hello-with-main/bin/Debug/net8.0/hello-with-main.dll
+/home/deanrossano/cs-masters/2025/spring/cs690/mod1/csharp_tutorials/hello-chsharp/hello-with-main/bin/Debug/net8.0/hello-with-main.pdb
+/home/deanrossano/cs-masters/2025/spring/cs690/mod1/csharp_tutorials/hello-chsharp/hello-with-main/obj/Debug/net8.0/hello-with-main.dll
+/home/deanrossano/cs-masters/2025/spring/cs690/mod1/csharp_tutorials/hello-chsharp/hello-with-main/obj/Debug/net8.0/refint/hello-with-main.dll
+/home/deanrossano/cs-masters/2025/spring/cs690/mod1/csharp_tutorials/hello-chsharp/hello-with-main/obj/Debug/net8.0/hello-with-main.pdb
+/home/deanrossano/cs-masters/2025/spring/cs690/mod1/csharp_tutorials/hello-chsharp/hello-with-main/obj/Debug/net8.0/hello-with-main.genruntimeconfig.cache
+/home/deanrossano/cs-masters/2025/spring/cs690/mod1/csharp_tutorials/hello-chsharp/hello-with-main/obj/Debug/net8.0/ref/hello-with-main.dll
