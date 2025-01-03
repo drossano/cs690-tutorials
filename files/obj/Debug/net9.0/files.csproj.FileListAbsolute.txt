@@ -1,0 +1,15 @@
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/files/obj/Debug/net9.0/files.GeneratedMSBuildEditorConfig.editorconfig
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/files/obj/Debug/net9.0/files.AssemblyInfoInputs.cache
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/files/obj/Debug/net9.0/files.AssemblyInfo.cs
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/files/obj/Debug/net9.0/files.csproj.CoreCompileInputs.cache
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/files/obj/Debug/net9.0/files.sourcelink.json
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/files/bin/Debug/net9.0/files
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/files/bin/Debug/net9.0/files.deps.json
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/files/bin/Debug/net9.0/files.runtimeconfig.json
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/files/bin/Debug/net9.0/files.dll
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/files/bin/Debug/net9.0/files.pdb
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/files/obj/Debug/net9.0/files.dll
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/files/obj/Debug/net9.0/refint/files.dll
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/files/obj/Debug/net9.0/files.pdb
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/files/obj/Debug/net9.0/files.genruntimeconfig.cache
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/files/obj/Debug/net9.0/ref/files.dll

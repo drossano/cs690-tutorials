@@ -1,0 +1,15 @@
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/exceptions/bin/Debug/net9.0/exceptions
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/exceptions/bin/Debug/net9.0/exceptions.deps.json
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/exceptions/bin/Debug/net9.0/exceptions.runtimeconfig.json
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/exceptions/bin/Debug/net9.0/exceptions.dll
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/exceptions/bin/Debug/net9.0/exceptions.pdb
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/exceptions/obj/Debug/net9.0/exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/exceptions/obj/Debug/net9.0/exceptions.AssemblyInfoInputs.cache
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/exceptions/obj/Debug/net9.0/exceptions.AssemblyInfo.cs
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/exceptions/obj/Debug/net9.0/exceptions.csproj.CoreCompileInputs.cache
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/exceptions/obj/Debug/net9.0/exceptions.sourcelink.json
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/exceptions/obj/Debug/net9.0/exceptions.dll
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/exceptions/obj/Debug/net9.0/refint/exceptions.dll
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/exceptions/obj/Debug/net9.0/exceptions.pdb
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/exceptions/obj/Debug/net9.0/exceptions.genruntimeconfig.cache
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/exceptions/obj/Debug/net9.0/ref/exceptions.dll

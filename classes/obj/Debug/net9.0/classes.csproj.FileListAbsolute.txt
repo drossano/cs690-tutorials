@@ -1,0 +1,15 @@
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/classes/bin/Debug/net9.0/classes
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/classes/bin/Debug/net9.0/classes.deps.json
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/classes/bin/Debug/net9.0/classes.runtimeconfig.json
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/classes/bin/Debug/net9.0/classes.dll
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/classes/bin/Debug/net9.0/classes.pdb
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/classes/obj/Debug/net9.0/classes.GeneratedMSBuildEditorConfig.editorconfig
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/classes/obj/Debug/net9.0/classes.AssemblyInfoInputs.cache
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/classes/obj/Debug/net9.0/classes.AssemblyInfo.cs
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/classes/obj/Debug/net9.0/classes.csproj.CoreCompileInputs.cache
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/classes/obj/Debug/net9.0/classes.sourcelink.json
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/classes/obj/Debug/net9.0/classes.dll
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/classes/obj/Debug/net9.0/refint/classes.dll
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/classes/obj/Debug/net9.0/classes.pdb
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/classes/obj/Debug/net9.0/classes.genruntimeconfig.cache
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/classes/obj/Debug/net9.0/ref/classes.dll

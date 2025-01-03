@@ -1,0 +1,15 @@
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/math/bin/Debug/net9.0/math
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/math/bin/Debug/net9.0/math.deps.json
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/math/bin/Debug/net9.0/math.runtimeconfig.json
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/math/bin/Debug/net9.0/math.dll
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/math/bin/Debug/net9.0/math.pdb
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/math/obj/Debug/net9.0/math.GeneratedMSBuildEditorConfig.editorconfig
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/math/obj/Debug/net9.0/math.AssemblyInfoInputs.cache
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/math/obj/Debug/net9.0/math.AssemblyInfo.cs
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/math/obj/Debug/net9.0/math.csproj.CoreCompileInputs.cache
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/math/obj/Debug/net9.0/math.sourcelink.json
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/math/obj/Debug/net9.0/math.dll
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/math/obj/Debug/net9.0/refint/math.dll
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/math/obj/Debug/net9.0/math.pdb
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/math/obj/Debug/net9.0/math.genruntimeconfig.cache
+/home/cs-masters/2025/spring/cs690/mod2/tutorials/math/obj/Debug/net9.0/ref/math.dll
